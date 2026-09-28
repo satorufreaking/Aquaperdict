@@ -1,0 +1,30 @@
+# AquaPredict simulation results
+results/
+results.zip
+
+# Large simulation output files
+*.bi4
+*.bi5
+*.vtk
+*.vtu
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
