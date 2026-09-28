@@ -169,4 +169,9 @@ cd dam-break-simulation
 **PROTONIC** (Team ID 124526), Smart India Hackathon 2026
 
 - Dattatray Naik
-- <!-- add the other team members -->
+- Rohit Prasad
+- Bhumika Padmane
+- Briva Puri
+- Amruta Kachkure
+- Lavanya Karekar
+  
