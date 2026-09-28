@@ -1,0 +1,20 @@
+{
+  "scenario": {
+    "name": "scenario_A",
+    "case_name": "CaseDambreak",
+    "preferred_case": "CaseDambreak_Def.xml",
+    "execution": {
+      "engine": "gpu"
+    },
+    "simulation": {
+      "time_max": 1.6,
+      "time_out": 0.01,
+      "gravity_z": -9.81,
+      "particle_spacing": 0.0085
+    }
+  },
+  "case_name": "CaseDambreak",
+  "template": "C:\\Users\\Dattatray\\OneDrive\\Desktop\\Aquapredict\\DualSPHysics-master\\examples\\main\\01_DamBreak\\CaseDambreak_Def.xml",
+  "case_dir": "C:\\Users\\Dattatray\\OneDrive\\Desktop\\Aquapredict\\AquaPredict\\data\\generated\\scenario_A_6db8ab74",
+  "generated_case_xml": "C:\\Users\\Dattatray\\OneDrive\\Desktop\\Aquapredict\\AquaPredict\\data\\generated\\scenario_A_6db8ab74\\CaseDambreak_Def.xml"
+}

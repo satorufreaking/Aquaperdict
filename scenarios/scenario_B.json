@@ -1,0 +1,14 @@
+{
+  "name": "scenario_B",
+  "case_name": "CaseDambreakVal2D",
+  "preferred_case": "CaseDambreakVal2D_Def.xml",
+  "execution": {
+    "engine": "gpu"
+  },
+  "simulation": {
+    "time_max": 2.0,
+    "time_out": 0.01,
+    "gravity_z": -9.81,
+    "particle_spacing": 0.01
+  }
+}
