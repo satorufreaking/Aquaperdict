@@ -45,22 +45,22 @@ The routing here is a simplified model: a broad-crested breach release, then ras
 **Simulation runner: scenario selection and run status**
 
 <!-- PASTE IMAGE 1 HERE: Streamlit page with "Simulation settings" JSON and "Simulation completed successfully" -->
-![Simulation runner](docs/images/01-simulation-runner.png)
+![Simulation runner](docs/images/01-simulation-runner.png.jpeg)
 
 **Dam-break dashboard: flood depth layer**
 
 <!-- PASTE IMAGE 2 HERE: dashboard with the map, the blue flood path and the summary cards -->
-![Dashboard](docs/images/02-dashboard-flood-depth.png)
+![Dashboard](docs/images/02-dashboard-flood-depth.png.jpeg)
 
 **Solver output as written by DualSPHysics (`RunPARTs.csv`)**
 
 <!-- PASTE IMAGE 3 HERE: the Excel view of the results CSV -->
-![Raw solver output](docs/images/03-solver-output-csv.png)
+![Raw solver output](docs/images/03-solver-output-csv.png.jpeg)
 
 **Simulation results table inside the runner**
 
 <!-- PASTE IMAGE 4 HERE: Streamlit "Numerical metrics" and "Simulation results" tables -->
-![Results table](docs/images/04-results-table.png)
+![Results table](docs/images/04-results-table.png.jpeg)
 
 ## Architecture
 
