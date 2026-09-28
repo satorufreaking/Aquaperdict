@@ -1,0 +1,16 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Package manager caches
+work/pip-cache/
+work/npm-cache/
+
+# General caches
+.cache/
+*.pyc
